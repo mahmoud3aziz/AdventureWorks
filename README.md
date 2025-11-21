@@ -67,7 +67,7 @@ Each dashboard uses optimized visuals chosen to deliver insights quickly and cle
 
 <img width="1333" height="747" alt="Image" src="https://github.com/user-attachments/assets/1fb8bc54-94e3-4e69-9bf6-d2379034bdca" />
 
-<img width="1373" height="761" alt="Image" src="https://github.com/user-attachments/assets/ae3e756a-84fe-47c0-b885-2b8f615d8754" />
+<img width="1340" height="750" alt="Image" src="https://github.com/user-attachments/assets/b41e0594-af38-4e26-831d-d2658bd0b366" />
 
 <img width="1336" height="753" alt="Image" src="https://github.com/user-attachments/assets/f314f60a-f8de-4f25-8603-e3eba08e374b" />
 
